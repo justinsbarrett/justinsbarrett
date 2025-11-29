@@ -1,6 +1,6 @@
 # Howdy!
 
-I'm Justin Barrett. I've been messing with code in various forms since I was 11-ish. My dad bought us a Commodore VIC-20,
+I'm Justin Barrett. I've been messing with code in various forms since the early 80s. My dad bought a Commodore VIC-20,
 and while I mostly typed in programs from magazines (yes, that was a thing!), I wrote a few of my own, including a simple
 assembly language program that animated a static Pac-Man-like character.
 
@@ -11,13 +11,13 @@ of my programming language experience:
 * Pascal (Apple II?)
 * VBA (Excel, early 2000s)
 * PHP
-* JavaScript (cursory dabbling)
+* JavaScript (brief dabbling)
 * MEL (Maya Embedded Language)
 * Python
-* JavaScript (more serious)
+* JavaScript & TypeScript
 
-Currently I'm the IT Manager for [Lights Over Atlanta](http://lightsoveratlanta.com).
-On the side I'm an [Airtable consultant, developer, and teacher](http://allaboutthatbase.tips).
+I've been the IT Manager for [Lights Over Atlanta](http://lightsoveratlanta.com) since early 2022.
+Side projects include voiceover, theatre, and personal coding.
 
 <!---
 justinsbarrett/justinsbarrett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
